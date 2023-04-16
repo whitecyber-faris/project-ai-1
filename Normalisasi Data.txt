@@ -1,0 +1,8 @@
+Keterangan
+Jenis Kelamin : L = 1, P = 2
+ASI Eksklusif : Ya = 1, Tidak = 2
+Riwayat Kehamilan Prematur : Ya = 1, Tidak = 2
+Pendidikan Ibu : Rendah = 1, Tinggi = 2
+Pendapatan : Rendah = 1, Cukup = 2
+Status Stunting : Normal = 1, Stunting = 2
+
